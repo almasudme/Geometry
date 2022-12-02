@@ -7,7 +7,8 @@ cube_gap = 2
 n_cubex = 1
 n_cubey = 1
 n_cubez = 1
-n_voronoi_centers = 15
+n_voronoi_centers = 2
+
 cubes=[]
 def random_center_generator(limit_x,limit_y,limit_z):
    
